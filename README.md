@@ -1,5 +1,9 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
+A landing page which shows data and visualization dashboard of 500+ cities at different latitudes relative to the equator line. The visualization shows temperature, humidity, cloudiness, and wind speed. 
+
+https://pajesh98.github.io/Web-Design-Challenge/Landing.html#
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
